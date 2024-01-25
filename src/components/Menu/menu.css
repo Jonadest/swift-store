@@ -1,0 +1,17 @@
+.cart{
+    color: orange;
+}
+
+.nav-item a:hover{
+    color: orange;
+}
+
+
+.nav-item.active .nav-link,
+.nav-link.active {
+  color: orange;
+}
+
+a{
+    text-decoration: none;
+}

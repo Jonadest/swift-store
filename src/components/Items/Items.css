@@ -1,0 +1,26 @@
+.card-wrapper{
+justify-content: center;
+gap: 10px;
+margin-bottom: 30px;
+}
+
+.h1-titles{
+    padding-bottom: 20px;
+}
+.card{
+    width: 20rem;
+    margin: 0 auto;
+
+   
+}
+
+
+.btn-custom:hover{
+    background-color: rgba(255, 166, 0, 0.884);
+}
+
+
+.card img{
+    
+    height: 14rem;
+}

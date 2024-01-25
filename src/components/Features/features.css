@@ -1,0 +1,48 @@
+.items a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+ a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.items{
+width: 250px;
+}
+
+.aa{
+    text-decoration: none;
+    color: red;
+    
+}
+
+
+.foods img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    padding: 5px;
+    margin-bottom: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.foods img:hover{
+    width: 115px;
+    height: 115px;
+    
+}
+
+.collections{
+    display: flex;
+    justify-content: center;
+    background-color:rgba(255, 166, 0, 0.897);
+    align-items: center;
+    padding:20px ;
+    margin: 0 auto;
+}
