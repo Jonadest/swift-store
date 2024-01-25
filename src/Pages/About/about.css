@@ -39,6 +39,7 @@ border-radius: 15px;
     background-image: url("https://img.freepik.com/free-photo/young-smiling-afro-american-cook-chef-uniform-crosses-arms-isolated-orange-wall_141793-33424.jpg?w=740&t=st=1702823527~exp=1702824127~hmac=8d2b022dfb822c0bf98a4a9b9d0e791d8d51a0336c67d277741ea78f3af7c15a");
     background-position: center;
     background-size: cover;
+    border-radius: 0px 15px 15px 0px;
 }
 
 .about-text{
